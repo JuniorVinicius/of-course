@@ -1,5 +1,5 @@
-import Header from '@/components/global/header'
-import { Box, Stack } from '@mui/material'
+import Header from '@/components/global/Header'
+import { Stack } from '@mui/material'
 
 export default function PanelLayout({
   children,
